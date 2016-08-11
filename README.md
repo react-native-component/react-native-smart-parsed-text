@@ -1,0 +1,1 @@
+# react-native-smart-parsed-text
